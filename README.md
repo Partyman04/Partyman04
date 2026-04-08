@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Partyman04
-- 👀 I’m interested in whos asking ...
-- 🌱 I’m currently learning nothing ...
-- 💞️ I’m looking to collaborate on everyone who gave me chance...
-- 📫 How to reach me you cant...
+# Hi, I'm Party (Karzan) Ibrahim 👋
 
-<!---
-Partyman04/Partyman04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Undergraduate IT student at **Duhok Polytechnic University**  
+💡 Founder of **Kultoura** (cultural-tech startup) & pilot founder of a PlayStation gift card project  
+🌍 Passionate about **digital humanities, cultural preservation, and community-driven tech solutions**  
+🎮 Exploring **Unity game development** and interactive storytelling  
+🔐 Interested in **cybersecurity** and practical entrepreneurship
+
+---
+
+## 🚀 Current Projects
+- **Kultoura** – Preserving culture through technology  
+- **PlayStation Gift Card Startup** – Bringing affordable gaming access to local communities   
+
+---
+
+## 🛠️ Skills
+-## 🛠️ Skills
+- Beginner-friendly coding: Python, C#, Unity,javascript,c++ 
+- Workflow design & project documentation  
+- Pitch decks & presentations praised for clarity  
+- Identifying market gaps and building pilot projects  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Partyman04&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- **Email:** party.ibrahim@dpu.edu.krd  
+- **LinkedIn:** www.linkedin.com/in/party-ibrahim-a82a98213  
+- **Instagram:** [@karzanmhmed](https://www.instagram.com/karzanmhmed)
+
+---
+✨ *“Empowering communities through technology and storytelling.”*
