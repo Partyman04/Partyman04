@@ -1,4 +1,4 @@
-# Hi, I'm Party (Karzan) Ibrahim 👋
+# Hi, I'm Party Ibrahim 👋
 
 🎓 Undergraduate IT student at **Duhok Polytechnic University**  
 💡 Founder of **Kultoura** (cultural-tech startup) & pilot founder of a PlayStation gift card project  
